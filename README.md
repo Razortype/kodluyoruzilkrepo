@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # Process
-![Kodluyoruz Projesi](master/assets/process.png)
+![Kodluyoruz Projesi](main/assets/process.png)
